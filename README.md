@@ -14,7 +14,7 @@ Estagiário na [Rapadura Atômica](https://github.com/rapaduraatomica), focado e
 align="left"
 alt="Csharp"
 title="Csharp"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
@@ -22,7 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-ori
 align="left"
 alt="JavaScript"
 title="JavaScript"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
           
@@ -30,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 align="left"
 alt="React"
 title="React"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> 
 
@@ -38,10 +38,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 align="left"
 alt="Python"
 title="Python"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
+<br>
 <br>
 
 ### Extras
@@ -50,7 +51,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 align="left"
 alt="HTML5"
 title="HTML5"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>        
 
@@ -58,10 +59,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 align="left"
 alt="CSS"
 title="CSS"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
+<br>
 <br>
 
 ### Banco de Dados
@@ -69,7 +71,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 align="left"
 alt="MongoDB"
 title="MongoDB"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/> 
 
@@ -77,10 +79,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-o
 align="left"
 alt="MySQL"
 title="MySQL"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> 
 
+<br>
 <br>
 
 ### Ferramentas de Desenvolvimento
@@ -89,7 +92,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 align="left"
 alt="UnityEngine"
 title="UnityEngine"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/> 
 
@@ -97,7 +100,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-origi
 align="left"
 alt="Godot"
 title="Godot"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/> 
 
@@ -105,7 +108,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-origi
 align="left"
 alt="VisualStudio"
 title="VisualStudio"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/> 
 
@@ -113,7 +116,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visu
 align="left"
 alt="VisualStudioCode"
 title="VisualStudioCode"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/> 
 
