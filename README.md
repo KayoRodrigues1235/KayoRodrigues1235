@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
   <img src="misc/img/Kitbull (2019) - dir_ Rosana Sullivan.gif"></img>
 </div>
 
