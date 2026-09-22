@@ -31,7 +31,7 @@
       <br>
       <b>Software Developer and Systems Analyst</b><br><br>
       I am Brazilian and fascinated by creating software and games, as well as developing efficient, automated workflows using AI.<br><br>
-      Currently, I focus on developing <b>Nuclear</b> (a 2D animation tool based on Blender and its Grease Pencil API) and working on various indie games. My technical expertise centers on Python, C++/C#, and implementing local AI to automate repetitive tasks. My motto is that I’m always coding something and constantly exploring new areas.<br><br>
+      Currently, I focus on developing <b>Briba Anima</b>, a 2D animation tool, and working on various indie games. My technical expertise centers on Python, C++/C#, Rust. Implementing local AI to automate repetitive tasks. My motto is that I’m always coding something and constantly exploring new areas.<br><br>
       P.S. I’m a huge fan of sharks.
     </td>
     <td align="center" valign="middle" width="30%">
